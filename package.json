@@ -1,0 +1,33 @@
+{
+  "name": "j-pi-g",
+  "version": "1.0.0",
+  "description": "A image generator based on PI",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andreas-Atomphi/j-pi-g.git"
+  },
+  "keywords": [
+    "Image",
+    "generation",
+    "PI",
+    "J(PI)G"
+  ],
+  "author": "Andreas-Atomphi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andreas-Atomphi/j-pi-g/issues"
+  },
+  "homepage": "https://github.com/Andreas-Atomphi/j-pi-g#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
